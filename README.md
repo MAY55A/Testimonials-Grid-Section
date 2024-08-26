@@ -39,8 +39,8 @@ On small screens
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-testimonials-section-using-grid-EZRp9XCKow
+- Live Site URL: https://may55a.github.io/Testimonials-Grid-Section/
 
 
 
